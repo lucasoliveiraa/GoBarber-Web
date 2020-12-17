@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoBarber" title="GoBarber" src=".git/gobarber1.svg" width="300px" />
+    <img alt="GoBarber" title="GoBarber" src=".github/gobarber1.svg" width="300px" />
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="Barber" src=".git/gobarber.gif">
+  <img alt="Barber" src=".github/gobarber.gif">
 </p>
 
 ## 🚀 Tecnologias
