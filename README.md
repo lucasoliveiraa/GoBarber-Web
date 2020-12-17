@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoBarber" title="GoBarber" src=".git/gobarber1.svg" width="220px" />
+    <img alt="GoBarber" title="GoBarber" src=".git/gobarber1.svg" width="300px" />
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="Barber" src=".git/gobarber.gif" width="100%">
+  <img alt="Barber" src=".git/gobarber.gif">
 </p>
 
 ## 🚀 Tecnologias
@@ -74,4 +74,4 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ---
 
-Made with 💜 by Elias Gabriel 👋 [See my linkedin](https://www.linkedin.com/in/lucas-da-costa-oliveira-b75b30125/)
+Made with 💜 by Lucas Oliveira 👋 [See my linkedin](https://www.linkedin.com/in/lucas-da-costa-oliveira-b75b30125/)
