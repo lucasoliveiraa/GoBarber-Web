@@ -52,10 +52,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 $ git clone https://github.com/lucasoliveiraa/GoBarber-Web.git
 
 #Instale as dependências
-$ npm install
+$ yarn
 
 # Execute o comando
-$ npm run dev
+$ yarn start
 ```
 
 ## 🤔 Como contribuir
